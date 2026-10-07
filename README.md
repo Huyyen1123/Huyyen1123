@@ -1,10 +1,7 @@
 <div align="center">
 
 <a href="https://huyhoannguyen.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Huyyen1123/Huyyen1123/main/assets/hello-dark.svg">
-    <img src="https://raw.githubusercontent.com/Huyyen1123/Huyyen1123/main/assets/hello-light.svg" alt="Hi, my name is Huy. Nice to meet you!">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Huyyen1123/Huyyen1123/main/assets/hello-mountains.svg" width="100%" alt="Hi, my name is Huy. Nice to meet you!">
 </a>
 
 </div>
