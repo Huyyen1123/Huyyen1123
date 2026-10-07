@@ -21,3 +21,7 @@ I’m a junior studying Computer Science at the University of Houston. I love te
 | [MacroFind](https://github.com/Huyyen1123/macrofind) | Finds fast food items near you that fit your macros, with a BMR/macro calculator | Python, Flask, SQLite, OpenStreetMap |
 | [Portfolio](https://github.com/Huyyen1123/About-Me) | My personal site, styled like the Minecraft title screen, with a 3D panorama and player model | HTML, CSS, JavaScript, Three.js |
 | [Chalk & Slate](https://github.com/Huyyen1123/chalk-and-slate) | Chalkboard tic-tac-toe with animated SVG strokes, plus a no-JS Flask version | JavaScript, SVG, Flask |
+
+## 🌿 Fun Facts:
+- Originally from **Viet Nam**
+- Finished a **Marathon** 🏃
