@@ -1,6 +1,20 @@
-<a href="https://huyhoannguyen.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1500&color=2F81F7&vCenter=true&width=480&height=50&lines=Hi%2C+my+name+is+Huy" alt="Hi, my name is Huy"></a>
+<div align="center">
 
-Computer Science & Math student at the University of Houston, looking for a software engineering internship.
+<a href="https://huyhoannguyen.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;weight=700&amp;size=48&amp;duration=2200&amp;pause=99999&amp;color=FFFFFF&amp;width=700&amp;height=80&amp;lines=Hi%2C+my+name+is+Huy.">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;weight=700&amp;size=48&amp;duration=2200&amp;pause=99999&amp;color=1F2328&amp;width=700&amp;height=80&amp;lines=Hi%2C+my+name+is+Huy." alt="Hi, my name is Huy.">
+  </picture>
+</a>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;weight=400&amp;size=22&amp;duration=1200&amp;pause=1000&amp;color=FFFFFF&amp;width=700&amp;height=40&amp;lines=+;Nice+to+meet+you.">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;weight=400&amp;size=22&amp;duration=1200&amp;pause=1000&amp;color=1F2328&amp;width=700&amp;height=40&amp;lines=+;Nice+to+meet+you." alt="Nice to meet you.">
+</picture>
+
+<p>Computer Science &amp; Math @ <b>University of Houston</b> | Looking for a <b>Software Engineering Internship</b> | <a href="https://huyhoannguyen.com">huyhoannguyen.com</a></p>
+
+</div>
 
 ## 💫 About Me:
 - 🔭 I’m currently working on **MacroFind**, a nutrition-focused website
