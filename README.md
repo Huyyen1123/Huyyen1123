@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://huyhoannguyen.com">
-  <img src="https://raw.githubusercontent.com/Huyyen1123/Huyyen1123/main/assets/hello-slideshow.svg" width="100%" alt="Hi, my name is Huy. Nice to meet you!">
+  <img src="https://raw.githubusercontent.com/Huyyen1123/Huyyen1123/main/assets/hello-montage.svg" width="100%" alt="Hi, my name is Huy. Nice to meet you!">
 </a>
 
 </div>
