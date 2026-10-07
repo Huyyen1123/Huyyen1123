@@ -13,12 +13,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300A86B.svg?logo=googlechrome&logoColor=white)](https://huyhoannguyen.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huy-nguyen-682b87431/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/huyyennn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:huyhnguyen2311@gmail.com)
 
 ## 💫 About Me:
-- 🔭 I’m currently working on **MacroFind**, a nutrition-focused website
-- 👯 I’m looking to collaborate on open-source and full-stack projects
-- 🤝 I’m looking for help with growing as a software engineer and contributing to larger projects
-- 🌱 I’m currently learning Machine Learning and Computer Organization & Architecture
-- 💬 Ask me about Web Development and Fitness
-- ⚡ Fun fact: I ran a full marathon 🏃‍♂️
+I’m a junior studying Computer Science at the University of Houston. I love technology, understanding how it works, and exploring the rapidly evolving world of artificial intelligence. I’m always looking to collaborate on open-source and full-stack projects while continuing to grow as a software engineer. Outside of school, I love traveling, exploring new places, and staying active 🏃
 
 ## 🚀 Projects:
 | Project | What it is | Stack |
