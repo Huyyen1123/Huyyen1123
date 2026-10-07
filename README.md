@@ -1,18 +1,18 @@
 <div align="center">
 
 <a href="https://huyhoannguyen.com">
-  <img src="https://raw.githubusercontent.com/Huyyen1123/Huyyen1123/main/assets/hello-pixel.svg" width="100%" alt="Hi, my name is Huy. Nice to meet you!">
+  <img src="https://raw.githubusercontent.com/Huyyen1123/Huyyen1123/main/assets/hello-dissolve.svg" width="100%" alt="Hi, my name is Huy. Nice to meet you!">
 </a>
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Huyyen1123/Huyyen1123/main/assets/icons/about.svg" height="28" alt=""> About Me:
+## <img src="https://raw.githubusercontent.com/Huyyen1123/Huyyen1123/main/assets/icons/ninja.svg" height="28" alt=""> About Me:
 I’m a junior studying Computer Science at the University of Houston. I love technology, understanding how it works, and exploring the rapidly evolving world of artificial intelligence. I’m always looking to collaborate on open-source and full-stack projects while continuing to grow as a software engineer. Outside of school, I love traveling, exploring new places, and staying active 🏃
 
-## <img src="https://raw.githubusercontent.com/Huyyen1123/Huyyen1123/main/assets/icons/socials.svg" height="28" alt=""> Socials:
+## <img src="https://raw.githubusercontent.com/Huyyen1123/Huyyen1123/main/assets/icons/globe.svg" height="28" alt=""> Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300A86B.svg?logo=googlechrome&logoColor=white)](https://huyhoannguyen.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huy-nguyen-682b87431/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/huyyennn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:huyhnguyen2311@gmail.com)
 
-## <img src="https://raw.githubusercontent.com/Huyyen1123/Huyyen1123/main/assets/icons/projects.svg" height="28" alt=""> Projects:
+## <img src="https://raw.githubusercontent.com/Huyyen1123/Huyyen1123/main/assets/icons/rocket.svg" height="28" alt=""> Projects:
 | Project | What it is | Stack |
 |---|---|---|
 | [MacroFind](https://github.com/Huyyen1123/macrofind) | Finds fast food items near you that fit your macros, with a BMR/macro calculator | Python, Flask, SQLite, OpenStreetMap |
