@@ -2,15 +2,10 @@
 
 <a href="https://huyhoannguyen.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;weight=700&amp;size=48&amp;duration=2500&amp;pause=2000&amp;color=FFFFFF&amp;width=700&amp;height=80&amp;lines=Hi%2C+my+name+is+Huy.">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;weight=700&amp;size=48&amp;duration=2500&amp;pause=2000&amp;color=1F2328&amp;width=700&amp;height=80&amp;lines=Hi%2C+my+name+is+Huy." alt="Hi, my name is Huy.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg">
+    <img src="assets/intro-light.svg" alt="Hi, my name is Huy. Nice to meet you!">
   </picture>
 </a>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;weight=400&amp;size=22&amp;duration=2500&amp;pause=2000&amp;color=FFFFFF&amp;width=700&amp;height=40&amp;lines=Nice+to+meet+you.">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;weight=400&amp;size=22&amp;duration=2500&amp;pause=2000&amp;color=1F2328&amp;width=700&amp;height=40&amp;lines=Nice+to+meet+you." alt="Nice to meet you.">
-</picture>
 
 <p>Computer Science &amp; Math @ <b>University of Houston</b> | Looking for a <b>Software Engineering Internship</b> | <a href="https://huyhoannguyen.com">huyhoannguyen.com</a></p>
 
