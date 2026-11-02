@@ -18,6 +18,8 @@ I’m a junior studying Computer Science at the University of Houston. I love te
 ## 🚀 Projects:
 | Project | What it is | Stack |
 |---|---|---|
+| Nestwise (private repo) | AI-powered parenting platform across web and mobile, with recommendations, guidance, and daily task planning | TypeScript, React, Next.js, React Native, Expo, OpenAI API |
+| Project Downhill (private repo) | Multiplayer Roblox skiing and snowboarding racing game with custom physics and cross-server matchmaking | Roblox Studio, Luau |
 | [MacroFind](https://github.com/Huyyen1123/macrofind) | Finds fast food items near you that fit your macros, with a BMR/macro calculator | Python, Flask, SQLite, OpenStreetMap |
 | [Portfolio](https://github.com/Huyyen1123/About-Me) | My personal site, styled like the Minecraft title screen, with a 3D panorama and player model | HTML, CSS, JavaScript, Three.js |
 | [Chalk & Slate](https://github.com/Huyyen1123/chalk-and-slate) | Chalkboard tic-tac-toe with animated SVG strokes, plus a no-JS Flask version | JavaScript, SVG, Flask |
